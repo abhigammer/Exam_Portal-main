@@ -1,10 +1,3 @@
-<p align='center'><img src='https://user-images.githubusercontent.com/46227193/133924458-d6f66df8-f0f8-4d56-951e-213200a2ad83.jpeg' width="300" ></p>
-<p align='center'>
-Due to pertaining covid situation, it has been quite a hassle for colleges and schools to conduct examinations for students and there are limited Indian platforms available for students for this purpose. Also many unprivileged students who can't pay high fee to schools charging extra money from them for conducting assessements and grading, this platform will be a viable solution for this problem and will provide a cost effective, seamless and transparent experience for teachers as well as studetns and will be widely availbale for all schools.<br></br>
-Furthermore, we performed a survey of our teachers and discovered that they spend more than 60% of their time developing questions for various class assessments, assignments, and exams. So, we decided to lend a hand. For this, we devised the concept of a platform where teachers can just input the questions to conduct any kind of tests.<br></br> 
-</p>
-<p align='center'><img src='https://user-images.githubusercontent.com/46227193/133924440-7ddb553c-d8bb-47dc-a46f-01e45a96328c.png' width="800" ></p>
-
 ## What is it? ⛹️‍♂️
 The project is a complete Exam Portal system built for educational institutions like schools and colleges. The portal serves as a single platform that can be used by all the professors and students, having their own set of work to be done. Following are the three levels of users along with the supported features that can be done by them in the portal:
 * ***admin*** 🛠
@@ -99,11 +92,3 @@ The APIs were built using **`Django`** and **`Django RESTFramework`**, which wer
 - [ ] Professor's view of complete date of students enrolled in their subjects.
 
 
-## Contributing 👩‍💻
-Any contributions made to the project are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
